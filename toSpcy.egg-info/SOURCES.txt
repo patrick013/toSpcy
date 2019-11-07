@@ -1,0 +1,8 @@
+README.md
+setup.py
+toSpcy/__init__.py
+toSpcy/toSpacy.py
+toSpcy.egg-info/PKG-INFO
+toSpcy.egg-info/SOURCES.txt
+toSpcy.egg-info/dependency_links.txt
+toSpcy.egg-info/top_level.txt

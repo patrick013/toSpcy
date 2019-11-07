@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: toSpcy
+Version: 1.0.0
+Summary: This package aims to initialize training data for SpaCy
+Home-page: https://github.com/patrick013
+Author: Patrick Ruan
+Author-email: acdmc.wruan@gmail.com
+License: UNKNOWN
+Description: # toSpcy
+        
+        This package aims to initialize data for training in SpaCy!
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
